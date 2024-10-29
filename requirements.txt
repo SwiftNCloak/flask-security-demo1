@@ -3,3 +3,5 @@ Flask-Security
 Flask-SQLAlchemy
 bcrypt
 email-validator
+flask-limiter
+flask-security-too
